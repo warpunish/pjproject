@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fpjproject.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fpjproject?ref=badge_shield)
+
  Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
  Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
 
@@ -965,3 +967,6 @@ Appendix I: Common Problems/Frequently Asked Question (FAQ)
           Thanks for using PJ libraries and for reading this document. Please
           send feedbacks or general comments to <bennylp at pjsip dot org>.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fpjproject.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fpjproject?ref=badge_large)
